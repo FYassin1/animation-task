@@ -1,0 +1,17 @@
+@keyframes rainbow {
+    0%{ background-color: #ff0000;}
+    20% { background-color: orange}
+    20% {background-color: yellow;}
+    20% {background-color: green;}
+    20% {background-color: blue;}
+    20% {background-color: purple;}
+}
+
+body {
+    animation-name: rainbow;
+    animation-duration: 50s;
+}
+
+    
+
+
